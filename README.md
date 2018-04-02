@@ -1,3 +1,3 @@
 # Hello-World
 
-Open repository of winter forge. Aiming to post code that myself and others can learn from.
+Computer Science student. Aiming to use this repository to help myself and other students develope programming skills.
